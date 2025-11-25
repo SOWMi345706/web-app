@@ -1,23 +1,37 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Pongal</title>
+    <style>
+        body {
+            background-color: #fff7e6;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #d97706;
+            font-size: 3rem;
+        }
+        p {
+            color: #444;
+            font-size: 1.2rem;
+        }
+        .card {
+            display: inline-block;
+            background: #ffe8c2;
+            padding: 20px 40px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+    </style>
 </head>
 <body>
-	<h1 style="color: violet; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
-	<h1 style="color: red; font-size: 40px;" align="center">THIS IS APP DEPLOYMENT USING TOMCAT</h1>
-	<h1 style="color: green; font-size: 40px;" align="center">Deploy webapp with new version</h1>
-	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
-	<h1 style="color: red; font-size: 40px;" align="center">WE INTEGRATED NEXUS TO JENKINS</h1>
-	<h1 style="color: blue; font-size: 40px;" align="center">WE DEPLOYED OUR APP ON 2 SERVERS</h1>
-	<h1 style="color: red; font-size: 40px;" align="center">WELCOME TO JENKINS CLASS</h1>
-        <h1 style="color: black; font-size: 60px;" align="center">New updated Version of MYAPP</h1>
-	
-	
-	
-	
-	
-	
-	
-	
+    <div class="card">
+        <h1>🌾 Happy Pongal! 🌾</h1>
+        <p>Wishing you joy, prosperity, and a bountiful harvest.</p>
+    </div>
 </body>
 </html>
