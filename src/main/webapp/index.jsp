@@ -6,7 +6,7 @@
   <title>Modern Jeep</title>
   <style>
     body {
-      margin: 0;
+      margin: 1;
       padding: 0;
       font-family: Arial, sans-serif;
       background-color: #f5f5f5;
